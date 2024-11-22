@@ -1,0 +1,13 @@
+Client: Steve,25
+LifeInsuranceObligation,0.05,100000,12
+FreightObligation,0.03,500000,36
+PropertyInsuranceObligation,0.08,20000,6
+
+Client: Haryy,44
+LifeInsuranceObligation,0.08,1000000,48
+PropertyInsuranceObligation,0.06,10000,24
+
+Client: Alice,30
+PropertyInsuranceObligation,0.07,50000,18
+FreighInsuranceObligation,0.04,30000,6
+
